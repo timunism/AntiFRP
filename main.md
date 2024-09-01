@@ -24,6 +24,13 @@ Type: `adb shell monkey -p com.android.chrome -c android.intent.category.LAUNCHE
                    -n com.android.settings/.accounts.AddAccountSettings`
 
 ----------------------------------------------------------
+
+# 3. BYPASSING
+
+## Launch a browser using the Launch App command, and visit the site below
+`https://frpbypass.io/` or `https://frpbypass.romstage.com/`
+
+## Happy Cracking
  
 
 
