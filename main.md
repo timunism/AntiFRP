@@ -8,9 +8,7 @@ Then Hold: `Volume Up + Volume Down + Power` to enable USB Debugging
 
 ## Some Devices may require a different key-combination
 Try The Following:
-    `Volume Up + Power`
-    `Volume Down + Power`
-    `Volume Up + Volume Down`
+    `Volume Up + Power` or `Volume Down + Power` or `Volume Up + Volume Down`
 
 # 2. STAGING
 -----------------------------------------------------------
